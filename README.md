@@ -1,1 +1,1 @@
-# Yurutaru.Platform.NetCore.Persistence.EfCore.PostgreSQL
+# Yurutaru.Platform.NetCore.NetCore.Persistence.EfCore.PostgreSQL
